@@ -1,3 +1,4 @@
+http://example.com/tags/index-1.html
 http://example.com/posts/novel-WN-2.html
 http://example.com/posts/novel-WN-1.html
 http://example.com/tags/index.html
