@@ -1,3 +1,4 @@
+http://example.com/artitalk/index.html
 http://example.com/shuoshuo/index.html
 http://example.com/posts/novel-wn-1.html
 http://example.com/posts/novel-wn-2.html
